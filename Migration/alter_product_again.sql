@@ -1,0 +1,1 @@
+ALTER TABLE product MODIFY COLUMN category_id VARCHAR(100)
